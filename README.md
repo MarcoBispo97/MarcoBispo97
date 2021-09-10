@@ -16,7 +16,7 @@
   
 </div>
 <div style="display: inline_block"><br>
-  <img align="right" alt="Marco" height="200" width="200" src="https://share-cdn.picrew.me/shareImg/org/202109/1243146_WiydgUGU.png">
+  <img align="right" alt="Marco" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202109/1243146_WiydgUGU.png">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
