@@ -17,9 +17,10 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="right" alt="Marco" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202109/1243146_WiydgUGU.png">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://becode.com.br/wp-content/uploads/2017/02/cpplogo-460x460.png">
+  <img align="center" alt="Marco-C" height="30" width="40" src="https://becode.com.br/wp-content/uploads/2017/02/cpplogo-460x460.png">
   <img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Marco-SQL" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3m3cQd-M2Gq5QXSik9qJSHGDBW3MvBoWFyA&usqp=CAU">
   
 </div>  
 
