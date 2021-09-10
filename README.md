@@ -20,7 +20,7 @@
   <img align="center" alt="Marco-C" height="30" width="40" src="https://becode.com.br/wp-content/uploads/2017/02/cpplogo-460x460.png">
   <img align="center" alt="Marco-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marco-SQL" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnwe7PUyJw6db6nfL_RmYPGVXGaFNvjxRgucTH1ZLn4fCi5f8aocJyj1BBppLqCylotjc&usqp=CAU">
+  <img align="center" alt="Marco-SQL" height="30" width="40" src="https://png.pngtree.com/png-vector/20190406/ourlarge/pngtree-sql-file-document-icon-png-image_917399.jpg">
   
 </div>  
 
