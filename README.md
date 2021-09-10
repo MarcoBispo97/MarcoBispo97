@@ -5,39 +5,6 @@
 - 📫 How to reach me: marcobispo97@gmail.com
 - 😄 Pronouns: he/him/his
 
-<div>
-  <a href="https://github.com/MarcoBispo97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoBispo97&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBispo97&layout=compact&langs_count=7&theme=github_dark"/>
-  
-</div>
-
-##  
-  
-</div>
-<div style="display: inline_block"><br>
-  <img align="right" alt="Marco" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202109/1243146_WiydgUGU.png">
-  <img align="center" alt="Marco-C" height="30" width="40" src="https://becode.com.br/wp-content/uploads/2017/02/cpplogo-460x460.png">
-  <img align="center" alt="Marco-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">
-  <img align="center" alt="Marco-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-
-  
-  <img align="center" alt="Marco-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Marco-SQL" height="30" width="40" src="## Hello my name is Marco Bispo
-
-- 🔭 I’m currently working on data analysis at volkswagen 
-- 🌱 I’m currently learning python and SQL
-- 📫 How to reach me: marcobispo97@gmail.com
-- 😄 Pronouns: he/him/his
-
-<div>
-  <a href="https://github.com/MarcoBispo97">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoBispo97&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBispo97&layout=compact&langs_count=7&theme=github_dark"/>
-  
-</div>
-
-##  
   
 </div>
 <div style="display: inline_block"><br>
