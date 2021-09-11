@@ -5,8 +5,16 @@
 - 📫 How to reach me: marcobispo97@gmail.com
 - 😄 Pronouns: he/him/his
 
-  
+
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcoBispo9&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoBispo9&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+
+
+
 <div style="display: inline_block"><br>
   <img align="right" alt="Marco" height="150" width="150" src="https://share-cdn.picrew.me/shareImg/org/202109/1243146_WiydgUGU.png">
   <img align="center" alt="Marco-C" height="30" width="40" src="https://becode.com.br/wp-content/uploads/2017/02/cpplogo-460x460.png">
