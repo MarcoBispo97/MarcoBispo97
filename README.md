@@ -1,6 +1,6 @@
 ## Hello my name is Marco Bispo
 
-- 🔭 I’m currently working on data analysis at Volkswagen 
+- 🔭 I’m currently working with python
 - 🌱 I’m currently learning python and SQL
 - 📫 How to reach me: marcobispo97@gmail.com
 - 😄 Pronouns: he/him/his
