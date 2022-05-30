@@ -1,7 +1,6 @@
 ## Hello my name is Marco Bispo
-
+- 🌱 DATA SCIENTIST | PYTHON DEVELOPER
 - 🔭 I’m currently working with python
-- 🌱 I’m currently learning python and SQL
 - 📫 How to reach me: marcobispo97@gmail.com
 - 😄 Pronouns: he/him/his
 
