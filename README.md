@@ -1,4 +1,4 @@
-## Hello my name is Marco Bispo
+## Hello !
 - 🌱 DATA SCIENTIST | PYTHON DEVELOPER
 - 🔭 I’m currently working with python
 - 📫 How to reach me: marcobispo97@gmail.com
