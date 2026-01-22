@@ -30,7 +30,7 @@ I build machine learning pipelines, intelligent automations, and statistical mod
 ### **Languages**
 🐍 Python  
 🧮 SQL  
-📊 R (basic)
+📊 B.I.
 
 ### **Machine Learning & Data**
 📦 Pandas • Sklearn • Seaborn • Scipy  
