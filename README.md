@@ -64,8 +64,6 @@ OEE, industrial big data, dashboards, manufacturing systems integration.
 [![](https://raw.githubusercontent.com/MarcoBispo97/MarcoBispo97/main/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MarcoBispo97/MarcoBispo97/main/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/MarcoBispo97/MarcoBispo97/main/profile-summary-card-output/dracula/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/MarcoBispo97/MarcoBispo97/main/profile-summary-card-output/dracula/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-
-
 ##
 
 <div> 
