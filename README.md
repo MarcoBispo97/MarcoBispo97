@@ -1,42 +1,57 @@
-🧑‍💻 Marco Bispo — Global Data Scientist & ML Engineer
-✨ Turning data into intelligent solutions.
-Atualmente Global Data Scientist na Embraer ✈️ e anteriormente AB InBev 🍺.
-Trabalho construindo pipelines de machine learning, automações inteligentes e modelos estatísticos que geram impacto global.
 
-🚀 About Me
-👨‍💻 Global Data Scientist & ML Engineer
-✈️ Embraer — Machine Learning, pipelines, integrações e análises globais
-🍺 Ex‑AB InBev — modelos de afinidade/propensão, CI/CD, Databricks, Azure DevOps
-📊 Foco em modelagem estatística, MLOps, EDA e geospatial analytics
-🐍 Pythonista apaixonado por clean code e automações
-🌎 Experiência com times globais, documentação e metodologias ágeis
-📐 Background forte em Engenharia Elétrica + Matemática
+---
 
-🛠️ Tech Stack
-Languages
-🐍 Python | 🧮 SQL | 📊 R (básico)
-Machine Learning & Data
-📦 Pandas • Sklearn • Seaborn • Scipy
-🧠 ML Models • Statistical Modeling • Forecasting
-🗺️ Geospatial Analysis • EDA • Feature Engineering
-Cloud & MLOps
-☁️ AWS (Athena, Glue, S3)
-⚡ Azure DevOps • CI/CD • Databricks • PySpark
-📦 Docker • Pipelines • Automations
-Other Tools
-📘 Confluence • Jira • Slack
-📊 Power BI • Streamlit
-🛠️ Git • VSCode • Jupyter
+## 🚀 About Me
 
-📂 Featured Projects
-🔹 📊 Predictive Modeling & ML Pipelines
+👨‍💻 Global Data Scientist & ML Engineer  
+✈️ Embraer — Machine Learning, pipelines, integrações e análises globais  
+🍺 Ex‑AB InBev — modelos de afinidade/propensão, CI/CD, Databricks, Azure DevOps  
+📊 Foco em modelagem estatística, MLOps, EDA e geospatial analytics  
+🐍 Pythonista apaixonado por clean code e automações  
+🌎 Experiência com times globais, documentação e metodologias ágeis  
+📐 Background forte em Engenharia Elétrica + Matemática  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages**
+🐍 Python  
+🧮 SQL  
+📊 R (básico)
+
+### **Machine Learning & Data**
+📦 Pandas • Sklearn • Seaborn • Scipy  
+🧠 ML Models • Statistical Modeling • Forecasting  
+🗺️ Geospatial Analysis • EDA • Feature Engineering  
+
+### **Cloud & MLOps**
+☁️ AWS (Athena, Glue, S3)  
+⚡ Azure DevOps • CI/CD • Databricks • PySpark  
+📦 Docker • Pipelines • Automations  
+
+### **Other Tools**
+📘 Confluence • Jira • Slack  
+📊 Power BI • Streamlit  
+🛠️ Git • VSCode • Jupyter  
+
+---
+
+## 📂 Featured Projects
+
+🔹 **📊 Predictive Modeling & ML Pipelines**  
 Modelos de propensão, regressão, classificação e análises exploratórias avançadas.
-🔹 🗺️ Geospatial Analysis for Agribusiness
-Mapeamento, análises PCA, PACF, ADF, KPSS, detecção de anomalias e séries temporais.
-🔹 🤖 Automação & RPA com Python
-Scraping, automações, selenium, pyautogui, ETLs, validação de dados.
-🔹 ⚙️ Industry 4.0 Analytics
+
+🔹 **🗺️ Geospatial Analysis for Agribusiness**  
+Mapeamento, PCA, PACF, ADF, KPSS, séries temporais e detecção de anomalias.
+
+🔹 **🤖 Automação & RPA com Python**  
+Scraping, selenium, pyautogui, ETLs, validação de dados.
+
+🔹 **⚙️ Industry 4.0 Analytics**  
 OEE, big data industrial, dashboards e integrações com sistemas fabris.
+
+---
 
 
 
