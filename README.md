@@ -1,15 +1,21 @@
 
+# 🧑‍💻 Marco Bispo — Global Data Scientist & ML Engineer
+
+✨ *Turning data into intelligent solutions.*  
+Currently **Global Data Scientist at Embraer ✈️** and formerly **AB InBev 🍺**.  
+I build machine learning pipelines, intelligent automations, and statistical models that power global-scale solutions.
+
 ---
 
 ## 🚀 About Me
 
 👨‍💻 Global Data Scientist & ML Engineer  
-✈️ Embraer — Machine Learning, pipelines, integrações e análises globais  
-🍺 Ex‑AB InBev — modelos de afinidade/propensão, CI/CD, Databricks, Azure DevOps  
-📊 Foco em modelagem estatística, MLOps, EDA e geospatial analytics  
-🐍 Pythonista apaixonado por clean code e automações  
-🌎 Experiência com times globais, documentação e metodologias ágeis  
-📐 Background forte em Engenharia Elétrica + Matemática  
+✈️ Embraer — machine learning, pipelines, integrations, and global analytics  
+🍺 AB InBev — affinity/propensity models, CI/CD, Databricks, Azure DevOps  
+📊 Focus on statistical modeling, MLOps, EDA, and geospatial analytics  
+🐍 Python enthusiast passionate about clean code and automation  
+🌎 Experience working with global teams and agile methodologies  
+📐 Strong background in Electrical Engineering + Mathematics  
 
 ---
 
@@ -18,7 +24,7 @@
 ### **Languages**
 🐍 Python  
 🧮 SQL  
-📊 R (básico)
+📊 R (basic)
 
 ### **Machine Learning & Data**
 📦 Pandas • Sklearn • Seaborn • Scipy  
@@ -40,20 +46,18 @@
 ## 📂 Featured Projects
 
 🔹 **📊 Predictive Modeling & ML Pipelines**  
-Modelos de propensão, regressão, classificação e análises exploratórias avançadas.
+Propensity models, regression, classification, exploratory data analysis.
 
 🔹 **🗺️ Geospatial Analysis for Agribusiness**  
-Mapeamento, PCA, PACF, ADF, KPSS, séries temporais e detecção de anomalias.
+Mapping, PCA, PACF, ADF, KPSS, time series, anomaly detection.
 
-🔹 **🤖 Automação & RPA com Python**  
-Scraping, selenium, pyautogui, ETLs, validação de dados.
+🔹 **🤖 Python Automation & RPA**  
+Scraping, selenium, pyautogui, ETLs, data validation flows.
 
 🔹 **⚙️ Industry 4.0 Analytics**  
-OEE, big data industrial, dashboards e integrações com sistemas fabris.
+OEE, industrial big data, dashboards, manufacturing systems integration.
 
 ---
-
-
 
 
 [![](https://raw.githubusercontent.com/MarcoBispo97/MarcoBispo97/main/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
