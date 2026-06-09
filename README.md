@@ -40,7 +40,7 @@ I build machine learning pipelines, intelligent automations, and statistical mod
 ### **Cloud & MLOps**
 ☁️ AWS (Athena, Glue, S3)  
 ⚡ Azure DevOps • CI/CD • Databricks • PySpark  
-📦 Docker • Pipelines • Automations  
+📦 • Pipelines • Automations  
 
 ### **Other Tools**
 📘 Confluence • Jira • Slack  
