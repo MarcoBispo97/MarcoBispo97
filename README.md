@@ -2,7 +2,6 @@
 # 🧑‍💻 Marco Bispo — Global Data Scientist & ML Engineer
 
 ✨ *Turning data into intelligent solutions.*  
-Currently **Global Data Scientist at Embraer ✈️** and formerly **AB InBev 🍺**.  
 I build machine learning pipelines, intelligent automations, and statistical models that power global-scale solutions.
 
 <div> 
